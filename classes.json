@@ -1,0 +1,38 @@
+{
+  "brute": {
+    "display_name": "Brute",
+    "hp_by_level": [10, 12, 14, 16, 18, 20, 22, 24, 10],
+    "hand_size": 10,
+    "perks": 15
+  },
+  "tinkerer": {
+    "display_name": "Tinkerer",
+    "hp_by_level": [8, 9, 10, 11, 12, 13, 14, 15, 8],
+    "hand_size": 12,
+    "perks": 16
+  },
+  "spellweaver": {
+    "display_name": "Spellweaver",
+    "hp_by_level": [6, 7, 8, 9, 10, 11, 12, 13, 6],
+    "hand_size": 8,
+    "perks": 12
+  },
+  "scoundrel": {
+    "display_name": "Scoundrel",
+    "hp_by_level": [8, 9, 10, 11, 12, 14, 16, 18, 8],
+    "hand_size": 9,
+    "perks": 15
+  },
+  "cragheart": {
+    "display_name": "Cragheart",
+    "hp_by_level": [10, 11, 12, 14, 16, 18, 20, 22, 10],
+    "hand_size": 10,
+    "perks": 13
+  },
+  "mindthief": {
+    "display_name": "Mindthief",
+    "hp_by_level": [6, 7, 8, 9, 10, 11, 12, 13, 6],
+    "hand_size": 8,
+    "perks": 13
+  }
+}
